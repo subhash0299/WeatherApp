@@ -44,7 +44,7 @@ pip install requests
 ### 3️⃣ Get an OpenWeatherMap API Key
 1. Sign up at OpenWeatherMap, it's free i think. I got API key for free. 
 2. Get your **API Key** from the dashboard.  
-3. Replace `API_KEY` in the script with your actual key.
+3. Replace `YOUR-API-KEY` in the script with your actual key.
 
 ### 4️⃣ Run the App - paste this code in Command prompt
 ```sh
@@ -99,6 +99,7 @@ This project is licensed under the **MIT License**. You are free to modify and u
 
 ## 💌 Contact
 **GitHub**: [subhash](https://github.com/subhash0299)
+
 **LinkedIn** : [Subhash Bishnoi](https://www.linkedin.com/in/subhash-bishnoi-086a1321a/)
 
 
